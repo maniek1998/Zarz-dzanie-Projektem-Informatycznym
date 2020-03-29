@@ -1,6 +1,2 @@
-"# Zarz-dzanie-Projektem-Informatycznym" 
-"# zarzadzanie" 
-"# Zarz-dzanie-Projektem-Informatycznym" 
-"# Zarz-dzanie-Projektem-Informatycznym" 
-"# Zarz-dzanie-Projektem-Informatycznym" 
+
 "# Zarz-dzanie-Projektem-Informatycznym" 
